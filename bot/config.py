@@ -1,10 +1,11 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1117291068:AAES_l6_aseY0YjGm__zUNk_TudsFvwJpWc"
+    APP_ID = "1874785"
+    API_HASH = "
+d11987fe6556562bb02e89b4e826746e"
+    DATABASE_URL = "guruthanosupload.herokuapp.com"
+    SUDO_USERS = "667605999" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/noahnoob"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
